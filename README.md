@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # andresrivera
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# portfolio
+my perdonal portfolio
+>>>>>>> 6393edbf4d8580efcfc61c1fb6bfb9da6374ef6c
